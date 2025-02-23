@@ -1,5 +1,5 @@
 
-# 🌟 PROJETO DE EXTENSÃO - Trilha Inteligência Artificial 🌟
+# 🌟 OFICINA DE PYTHON 🌟
 Este módulo faz parte do **PROJETO DE EXTENSÃO** do Centro Universitário **Uniftec** - Caxias do Sul, na **TRILHA INTELIGÊNCIA ARTIFICIAL**. 🚀
 
 ## 📜 Sobre a Oficina
