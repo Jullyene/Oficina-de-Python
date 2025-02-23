@@ -1,2 +1,5 @@
 Qual o penso: 
--> Com o modulo de abrir eu seleciono o meu arquivo e especifico se eu devo sobescrever o que ja tem no arquivo que desejo deixar salvo;
+-> Com o modulo de abrir eu seleciono o meu arquivo e especifico se eu devo sobescrever o que ja tem no arquivo que desejo deixar salvo; 
+
+Me explique <assunto que desejo aprender> funciona no estilo da anima��o arcane.Quero que a explica��o seja ambientada no universo de Zaun e Piltover
+com narrativa envolvente, met�foras criativas e um toque de ci�ncia e magia, como se eu fosse uma inventora ou personagem dentro desse mundo.
