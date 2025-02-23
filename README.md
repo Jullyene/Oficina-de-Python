@@ -3,7 +3,7 @@
 Este módulo faz parte do **PROJETO DE EXTENSÃO** do Centro Universitário **Uniftec** - Caxias do Sul, na **TRILHA INTELIGÊNCIA ARTIFICIAL**. 🚀
 
 ## 📜 Sobre a Oficina
-A oficina abordou conceitos fundamentais e avançados de **Inteligência Artificial**, proporcionando uma compreensão profunda sobre como as máquinas podem aprender e tomar decisões. Durante o curso, os alunos exploraram:<br>
+A oficina abordou conceitos fundamentais e avançados de **Inteligência Artificial**, proporcionando uma compreensão profunda sobre como as máquinas podem aprender e tomar decisões. Durante o curso, os alunos exploraram:<br><br>
 
 **Fundamentos de IA**: Entendimento das bases teóricas da inteligência artificial e sua aplicação prática.<br>
 **Análise de Dados**: Como trabalhar com grandes volumes de dados, usando ferramentas de processamento e análise.<br>
