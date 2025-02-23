@@ -16,8 +16,8 @@ A oficina abordou conceitos fundamentais e avançados de **Inteligência Artific
 
 
 ## 🛠 Tecnologias Usadas
-Este projeto utiliza a linguagem Python para o desenvolvimento dos módulos e atividades. 
-![Python Badge](https://img.shields.io/badge/Python-3.9-3776ab?style=for-the-badge&logo=python&logoColor=white)
+Este projeto utiliza a linguagem Python para o desenvolvimento dos módulos e atividades.<br>
+![Python Badge](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🤝 Como Contribuir
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
