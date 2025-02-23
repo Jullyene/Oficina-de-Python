@@ -5,11 +5,11 @@ Este módulo faz parte do **PROJETO DE EXTENSÃO** do Centro Universitário **Un
 ## 📜 Sobre a Oficina
 A oficina abordou conceitos fundamentais e avançados de **Inteligência Artificial**, proporcionando uma compreensão profunda sobre como as máquinas podem aprender e tomar decisões. Durante o curso, os alunos exploraram:
 
-**Fundamentos de IA**: Entendimento das bases teóricas da inteligência artificial e sua aplicação prática.<br>
-**Análise de Dados**: Como trabalhar com grandes volumes de dados, usando ferramentas de processamento e análise.
-**Machine Learning**: Introdução ao aprendizado de máquina, algoritmos de classificação e regressão.
-**Redes Neurais**: Estruturas complexas que imitam o cérebro humano para resolver problemas de reconhecimento de padrões.
-**Python para IA**: Utilização da linguagem Python, com bibliotecas como TensorFlow e scikit-learn, para implementar soluções de IA.
+**Fundamentos de IA**: Entendimento das bases teóricas da inteligência artificial e sua aplicação prática.<br><br>
+**Análise de Dados**: Como trabalhar com grandes volumes de dados, usando ferramentas de processamento e análise.<br><br>
+**Machine Learning**: Introdução ao aprendizado de máquina, algoritmos de classificação e regressão.<br><br>
+**Redes Neurais**: Estruturas complexas que imitam o cérebro humano para resolver problemas de reconhecimento de padrões.<br><br>
+**Python para IA**: Utilização da linguagem Python, com bibliotecas como TensorFlow e scikit-learn, para implementar soluções de IA.<br><br>
 
 
 ### Organização do repositório:
