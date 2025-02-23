@@ -12,7 +12,7 @@ A oficina abordou conceitos fundamentais e avançados de **Inteligência Artific
 
 
 ### Organização do repositório:
-![image](https://github.com/user-attachments/assets/45b66439-51a8-4d42-8e14-6c5f01464314)
+![image](https://github.com/user-attachments/assets/d3a293a9-ba3b-42a0-90e3-712b5fb56f0c)
 
 
 ## 🛠 Tecnologias Usadas
