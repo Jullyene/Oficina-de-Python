@@ -5,11 +5,10 @@ Este módulo faz parte do **PROJETO DE EXTENSÃO** do Centro Universitário **Un
 ## 📜 Sobre a Oficina
 A oficina abordou conceitos fundamentais e avançados de **Inteligência Artificial**, proporcionando uma compreensão profunda sobre como as máquinas podem aprender e tomar decisões. Durante o curso, os alunos exploraram:<br><br>
 
-**Fundamentos de IA**: Entendimento das bases teóricas da inteligência artificial e sua aplicação prática.<br>
-**Análise de Dados**: Como trabalhar com grandes volumes de dados, usando ferramentas de processamento e análise.<br>
-**Machine Learning**: Introdução ao aprendizado de máquina, algoritmos de classificação e regressão.<br>
-**Redes Neurais**: Estruturas complexas que imitam o cérebro humano para resolver problemas de reconhecimento de padrões.<br>
-**Python para IA**: Utilização da linguagem Python, com bibliotecas como TensorFlow e scikit-learn, para implementar soluções de IA.<br>
+**Introdução à Programação com Python**: Abordagem inicial da linguagem Python, suas estruturas e sintaxe, capacitando os alunos a escrever programas simples e eficazes.<br>
+**Estrutura de Dados em Python para IA**: Estudo das estruturas de dados mais comuns em Python, como listas, dicionários e conjuntos, e como usá-las para armazenar e manipular dados em projetos de IA.<br>
+**Introdução à Inteligência Artificial**: Visão geral sobre os conceitos e práticas da IA, explorando suas aplicações no mundo real e como ela está transformando diversas áreas.<br>
+**Fundamentos de Classificação e Agrupamento**: Exploração de técnicas essenciais de machine learning, como algoritmos de classificação (ex.: KNN, SVM) e agrupamento (ex.: K-means), para segmentação e previsão de dados.<br>
 
 
 ### Organização do repositório:
@@ -18,7 +17,7 @@ A oficina abordou conceitos fundamentais e avançados de **Inteligência Artific
 
 ## 🛠 Tecnologias Usadas
 Este projeto utiliza a linguagem Python para o desenvolvimento dos módulos e atividades. 
-![Python](https://img.shields.io/badge/Python-blue)
+![Python Badge](https://img.shields.io/badge/Python-3.9-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🤝 Como Contribuir
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
@@ -29,5 +28,3 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 4. **Push na sua branch** (`git push origin feature/nome-da-feature`).
 5. **Abra um Pull Request**.
 
-
-🚀 **Vamos avançar juntos na Trilha Inteligência Artificial!** 🎓
