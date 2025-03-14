@@ -1,0 +1,34 @@
+meu-projeto/
+│── backend/              
+│   ├── src/
+│   │   ├── modules/       
+│   │   ├── config/        
+│   │   ├── common/        
+│   │   ├── main.ts        
+│   │   ├── app.module.ts  
+│   ├── prisma/            
+│   ├── .env               
+│   ├── package.json       
+│   ├── tsconfig.json      
+│── frontend/              
+│   ├── src/
+│   │   ├── components/    
+│   │   ├── pages/        
+│   │   ├── hooks/         
+│   │   ├── context/       
+│   │   ├── services/      
+│   │   ├── styles/        
+│   │   ├── utils/         
+│   │   ├── main.tsx       
+│   │   ├── App.tsx        
+│   ├── public/            
+│   ├── tailwind.config.js 
+│   ├── tsconfig.json   
+│   ├── package.json  
+│── infra/               
+│   ├── docker/            
+│   ├── redis/             
+│   ├── nginx/             
+│   ├── logs/              
+│── docker-compose.yml     
+│── README.md             
